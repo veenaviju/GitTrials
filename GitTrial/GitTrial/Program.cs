@@ -12,7 +12,7 @@
             
             Console.WriteLine("Change from Git Website again");
 
-            Console.WriteLine("Feature 2");
+            Console.WriteLine("Feature pull request");
         }
     }
 }
