@@ -10,7 +10,7 @@
 
             Console.WriteLine("Second Commit with Push");
             
-            Console.WriteLine("Change from Git Website");
+            Console.WriteLine("Change from Git Website again");
         }
     }
 }
