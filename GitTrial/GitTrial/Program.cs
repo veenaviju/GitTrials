@@ -9,6 +9,8 @@
             Console.WriteLine("First Commit/Push");
 
             Console.WriteLine("Second Commit with Push");
+            
+            Console.WriteLine("Change from Git Website");
         }
     }
 }
