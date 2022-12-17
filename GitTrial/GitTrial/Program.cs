@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("First Commit/Push");
+
+            Console.WriteLine("Second Commit with Push");
         }
     }
 }
