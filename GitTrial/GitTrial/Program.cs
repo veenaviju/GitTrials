@@ -11,6 +11,8 @@
             Console.WriteLine("Second Commit with Push");
             
             Console.WriteLine("Change from Git Website again");
+
+            Console.WriteLine("Feature 2");
         }
     }
 }
